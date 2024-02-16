@@ -3,7 +3,7 @@
 ### About Me
 
 - 👩🏻‍💻 Pronouns: He/Him
-- 💼 I’m currently working as a <strong>Software Engineer</strong> at [Hidden Brains Infotech](https://www.hiddenbrains.com/).
+- 💼 I’ worked as a <strong>Software Engineer</strong> at [Hidden Brains Infotech](https://www.hiddenbrains.com/).
 - 🎒 I've worked on various projects ranging from social media platform, tutorial blog to ecommerce, ERP, EMS..
 - 🧭 I love exploring and working both in frontend and backend development.
 - 📫 How to reach me: Check social links below.
